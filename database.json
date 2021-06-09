@@ -1,0 +1,93 @@
+{
+    "candy": [
+      {
+        "id": 1,
+        "name": "Twizzler",
+        "type": "Licorice",
+        "customerId": 1,
+        "locationId": 1
+      },
+      {
+        "id": 2,
+        "name": "M&M's",
+        "type": "Chocolate",
+        "customerId": 2,
+        "locationId": 2
+      },
+      {
+        "id": 3,
+        "name": "Skittles",
+        "type": "Fruit Flavor",
+        "locationId": 3,
+        "customerId": 3
+        
+      }
+    ],
+    "customers": [
+      {
+        "id": 1,
+        "name": "Hannah Bananna",
+        "address": "7002 Chestnut Ct",
+        "email": ""
+      },
+      {
+        "id": 2,
+        "name": "Tony Stark",
+        "address": "123 Fake St",
+        "email": ""
+      },
+      {
+        "id": 3,
+        "name": "John Stuart",
+        "address": "357 Indiana St",
+        "email": ""
+      }
+    ],
+    "employees": [
+      {
+        "id": 1,
+        "name": "Ted Lasso",
+        "locationId": 1
+      },
+      {
+        "id": 2,
+        "name": "Rick Moranis",
+        "locationId": 1
+      },
+      {
+        "id": 3,
+        "name": "Travis Barker",
+        "locationId": 3
+      }
+    ],
+    "locations": [
+      {
+        "id": 1,
+        "name": "Spring Hill",
+        "address": "500 Main St.",
+        "squareFootage": 3100,
+        "handicapAccessible": true
+      },
+      {
+        "id": 2,
+        "name": "Murfreesboro",
+        "address": "1100 Main St.",
+        "squareFootage": 3200,
+        "handicapAccessible": false
+      },
+      {
+        "id": 3,
+        "name": "Lebanon",
+        "address": "5100 Main St.",
+        "squareFootage": 1800,
+        "handicapAccessible": true
+      },
+      {
+        "id": 4,
+        "name": "Brentwood",
+        "address": "7500 Main St.",
+        "squareFootage": 2300,
+        "handicapAccessible": true
+      }
+    ]
+  }
